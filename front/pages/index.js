@@ -1,7 +1,7 @@
-const Hone = () => {
+const Home = () => {
     return (
         <div>Hello,Next!</div>
     );
 }
 
-export default HTMLModElement;
+export default Home;
