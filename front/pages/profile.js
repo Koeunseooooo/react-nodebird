@@ -1,6 +1,9 @@
+import { AppLayout } from "../components/AppLayout";
 const Profile = () => {
     return (
-        <div>프로필페이지</div>
+        <AppLayout>
+            <div>프로필페이지</div>
+        </AppLayout>
     );
 }
 
