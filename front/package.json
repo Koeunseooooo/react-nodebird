@@ -11,6 +11,7 @@
   "dependencies": {
     "-": "^0.0.1",
     "@ant-design/icons": "^5.0.1",
+    "@babel/runtime": "^7.20.13",
     "antd": "^5.1.6",
     "next": "^9.5.5",
     "styled-components": "^5.3.6"
