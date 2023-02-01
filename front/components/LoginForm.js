@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react'
-import Link from 'next/link'
+import Link from 'next/Link'
 import { Form, Input, Button } from 'antd'
 import styled from 'styled-components'
 
